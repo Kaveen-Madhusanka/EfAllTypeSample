@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e40470cd-9248-40a7-b0a4-a230123b7b86": {
+      "ProjectGuid": "e40470cd-9248-40a7-b0a4-a230123b7b86",
+      "DisplayName": "DbFirst",
+      "ColorIndex": 0
+    },
+    "479c4ab2-d6cd-4fee-be3a-836d7136cfe2": {
+      "ProjectGuid": "479c4ab2-d6cd-4fee-be3a-836d7136cfe2",
+      "DisplayName": "CodeFirst",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
